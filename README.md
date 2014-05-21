@@ -22,4 +22,4 @@ CCST
 + MBSTRING
 
 
-[ファイル構成](https://github.com/kilhyungdoop/CCST/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E6%A7%8B%E6%88%90)
+[ファイル構成](https://github.com/kilhyungdoop/CCSTEST/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E6%A7%8B%E6%88%90)
